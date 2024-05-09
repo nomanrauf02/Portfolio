@@ -20,15 +20,15 @@ let clients = [
         Noman went above and beyond to do deliver this project with outstanding service. Thank you!`,
     img_filename: cheemaImage ,
   },
-  {
-    name: "Wahab Bandial",
-    position: "web developer",
-    stars: 4,
-    disc: `Work done is of very good quality. And requests have been noted dutifully.
-        Extremely professional service with understanding the client's requirements. 
-        I would definitely be working with him again in the future for any website related projects.`,
-    img_filename: wahabImage,
-  },
+  // {
+  //   name: "Wahab Bandial",
+  //   position: "web developer",
+  //   stars: 4,
+  //   disc: `Work done is of very good quality. And requests have been noted dutifully.
+  //       Extremely professional service with understanding the client's requirements. 
+  //       I would definitely be working with him again in the future for any website related projects.`,
+  //   img_filename: wahabImage,
+  // },
   {
     name: "Mudassar Alam",
     position: "Software Engineer",

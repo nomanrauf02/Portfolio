@@ -8,7 +8,7 @@ const Skills = () => {
    
     {
       title: "Frontend Skills",
-      value: ["HTML", "Tailwind CSS", "JavaScript", "ReactJS", "Bootstrap"],
+      value: ["HTML", "Tailwind CSS", "JavaScript", "ReactJS", "Bootstrap", "Material UI"],
     },
     {
       title: "Backend Skills",

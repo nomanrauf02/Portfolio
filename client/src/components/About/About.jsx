@@ -61,12 +61,12 @@ const About = () => {
 
           <p>
           As a dedicated Full Stack Developer, I bring a year of rich experience, with a proven track record of versatility across diverse projects. Currently specializing as a backend developer, I'm deeply committed to honing my skills and staying abreast of industry trends. Beyond the confines of work, I'm fueled by my passion for technology and literature, continuously nurturing both personal and professional growth. </p>
-          <button disabled style={{ cursor: "not-allowed" }}>
+          {/* <button disabled style={{ cursor: "not-allowed" }}>
             Download CV
             <span>
               <MdOutlineFileDownload />
             </span>
-          </button>
+          </button> */}
         </InfoContainer>
       </AboutMeSection>
     </Container>

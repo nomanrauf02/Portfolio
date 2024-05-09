@@ -68,7 +68,7 @@ const Footer = () => {
               </a>
             </Slide>
           </div>
-          <div>
+          {/* <div>
             <Slide direction="left">
               <span>
                 <HiOutlineMailOpen />
@@ -80,7 +80,7 @@ const Footer = () => {
               </a>
              
             </Slide>
-          </div>
+          </div> */}
         </div>
         <div className="profiles">
           <Slide direction="left">
@@ -89,26 +89,20 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href={process.env.REACT_APP_GITHUB_URL} target="blank">
+                <a href="https://github.com/nomanrauf02" target="blank">
                   <AiFillGithub />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href={process.env.REACT_APP_LINKEDIN_URL} target="blank">
+                <a href="https://www.linkedin.com/in/nomanrauf008/" target="blank">
                   <AiFillLinkedin />
                 </a>
               </span>
             </Zoom>
             
-            <Zoom>
-              <span>
-                <a href={process.env.REACT_APP_SLACK_URL} target="blank">
-                  <BsSlack />
-                </a>
-              </span>
-            </Zoom>
+          
           </div>
         </div>
         <Fade>
